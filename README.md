@@ -1,6 +1,6 @@
 # success
 
-A Flutter project for people who desire to succeed.
+A Flutter project for people who desire to be successful.
 
 ## Getting Started
 
